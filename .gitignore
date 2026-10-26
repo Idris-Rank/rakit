@@ -26,6 +26,7 @@
 !/storage/views/.gitignore
 
 # Local development and IDE files
+/.kilo/agent-manager.json
 /.idea/
 /.vscode/
 /.fleet/
