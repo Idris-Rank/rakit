@@ -32,5 +32,14 @@ Read the additional skill when the task matches its scope:
 - README, offline docs, examples, and changelog: `.agents/skills/rakit-documentation/SKILL.md`
 - Team contribution, branches, commits, and pull requests: `.agents/skills/rakit-contributing/SKILL.md`
 - GitHub/Git conflict resolution and collaborative merges: `.agents/skills/rakit-git-conflict/SKILL.md`
+- Product requirements, PRD, FRD, and acceptance criteria: `.agents/skills/rakit-requirements/SKILL.md`
+- Accessibility, keyboard navigation, ARIA, and inclusive UI: `.agents/skills/rakit-accessibility/SKILL.md`
+- PHP version, syntax, extension, and runtime compatibility: `.agents/skills/rakit-php-compatibility/SKILL.md`
+- Composer packages, lockfiles, patches, and dependency audits: `.agents/skills/rakit-dependency-management/SKILL.md`
+- Database backup, restore, migration recovery, and disaster recovery: `.agents/skills/rakit-backup-recovery/SKILL.md`
+- Privacy, personal data, retention, export, and deletion: `.agents/skills/rakit-privacy/SKILL.md`
+- Release preparation, smoke checks, migrations, and rollback: `.agents/skills/rakit-release/SKILL.md`
+- Application architecture, boundaries, abstractions, and framework core decisions: `.agents/skills/rakit-architecture/SKILL.md`
+- Production incident diagnosis, mitigation, rollback, and postmortem: `.agents/skills/rakit-incident-response/SKILL.md`
 
 When a task spans multiple areas, read every applicable skill before editing. The shared skills supplement `rakit-project`; they do not replace it.
